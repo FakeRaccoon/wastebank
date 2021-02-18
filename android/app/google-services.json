@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "325496784581",
+    "project_id": "waste-bank-84074",
+    "storage_bucket": "waste-bank-84074.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325496784581:android:edc2bf7272aac6eb58d2ac",
+        "android_client_info": {
+          "package_name": "com.ale.wastebank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325496784581-3lp37mtmt6baf76ia80lbat25ggpfd50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ale.wastebank",
+            "certificate_hash": "12ec8868cdf6b2a77c448d38c0294c9aa8c8c5fe"
+          }
+        },
+        {
+          "client_id": "325496784581-5gce4kgnm8na742uqa54tf0d3thimnqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDku1ngIMLekjaTz8SPqIpoYhERggvu3t4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325496784581-5gce4kgnm8na742uqa54tf0d3thimnqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
